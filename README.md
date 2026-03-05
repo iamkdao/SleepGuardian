@@ -2,7 +2,7 @@
 
 ## Authors
 - Gia Huy Phạm  
-- *(Add partner name here if applicable)*
+- Ryan Zhang
 
 ---
 
