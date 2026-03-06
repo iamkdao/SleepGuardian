@@ -1,3 +1,6 @@
+//Gia Huy Phạm
+//Ryan Zhang
+
 package wpics.sleepguardian.data.db
 
 import androidx.room.Entity

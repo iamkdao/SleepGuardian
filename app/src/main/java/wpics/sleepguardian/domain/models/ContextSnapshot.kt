@@ -1,3 +1,6 @@
+//Gia Huy Phạm
+//Ryan Zhang
+
 package wpics.sleepguardian.domain.models
 
 data class ContextSnapshot(

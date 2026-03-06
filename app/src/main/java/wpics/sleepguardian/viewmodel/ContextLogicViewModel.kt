@@ -1,3 +1,6 @@
+//Gia Huy Phạm
+//Ryan Zhang
+
 package wpics.sleepguardian.viewmodel
 
 import android.app.Application

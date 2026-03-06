@@ -1,3 +1,6 @@
+//Gia Huy Phạm
+//Ryan Zhang
+
 package wpics.sleepguardian.data.prefs
 
 import android.content.Context
