@@ -1,7 +1,7 @@
 # Sleep Guardian
 
 ## Authors
-- Gia Huy Phạm  
+- Khoi Dao  
 - Ryan Zhang
 
 ---
